@@ -1,12 +1,15 @@
-### Oiii 👋  Eu sou a Alexssandra Prado
+### Oiii 👋  
+### Eu sou a Alexssandra Prado mas pode me chamar de Alexa 😄
+
 
 - 🌱 Atualmente estou estudando no bootcamp da Generation Brasil
 - 👯 Espero desenvolver algo que ajude você 
 - 😄 Pronouns: ela / she
 - ⚡ Iniciante nesse mundo da programação 
+- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 
 
-<div align="center">
+<div>
     <a href="https://github.com/AlexaPim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexapim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapim&layout=compact&langs_count=7&theme=dracula"/>
@@ -33,6 +36,5 @@
 
   <a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
  
 </div>
