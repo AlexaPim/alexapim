@@ -1,12 +1,14 @@
 ### Oiii 👋  
-### Eu sou a Alexssandra Prado mas pode me chamar de Alexa 😄
+### Meu nome é Alexssandra mas pode me chamar de Alexa 😄
 
 
-- 🌱 Atualmente estou estudando no bootcamp da Generation Brasil
+- ⏳ Atualmente estou estudando no bootcamp da Generation Brasil
 - 👯 Espero desenvolver algo que ajude você 
 - 😄 Pronouns: ela / she
 - ⚡ Iniciante nesse mundo da programação 
 - 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+- ✨ Apaixonada por jogos, doramas e animes 
+- ❤️ BTS é minha paixão 😍 
 
 
 <div>
