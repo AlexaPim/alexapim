@@ -28,7 +28,7 @@
     <img align="center" alt="Ale-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
 
-   <img align="right" alt="logo" height="150" style="border-radius:50px;" src="https://i.imgur.com/PDBYO1R.png">    
+   <img align="right" alt="logo" height="300" style="border-radius:50px;" src="https://i.imgur.com/PDBYO1R.png">    
 
 </div>
   
