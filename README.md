@@ -4,11 +4,9 @@
 
 - ⚡ Iniciante nesse mundo da programação 
 - 👯 Espero desenvolver algo que ajude você 
-- 😄 Pronouns: ela / she
-- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 - ✨ Apaixonada por jogos, doramas e animes 
 - ❤️ BTS é minha paixão 😍 
-
+<br><br>
 
 <div>
     <a href="https://github.com/AlexaPim">
@@ -32,18 +30,26 @@
   
   ##
 
-<div> 
+<div style="display: inline_block"><br> 
 
-   <a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank">
-       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
+ 
+<a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5 ?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://alexaprado.herokuapp.com/" target="_blank"><img width="76" src="https://img.shields.io/badge/-Portfolio-ff69b4" target="_blank">
 </div>  
   
-  ##  
-    
-<div>
-    <img align="right" alt="logo" height="300" style="border-radius:50px;" src="https://i.imgur.com/PDBYO1R.png">      
-</div>    
+   
+<br><br>
+  
+
+   <h2>Projetos que contribuí</h2> <br>   
+
+   * [Troca Inteligente](https://troca-inteligente.vercel.app/) 
+
+    - Esse projeto tem como iniciativa contribuir com o meio ambiente, incentivando pessoas a reciclarem e lhes dando recompensas ao atingir pontos;
+     
+   * [Carol](https://proj-carol.netlify.app/#/home)
+
+    - Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
  
 
 
