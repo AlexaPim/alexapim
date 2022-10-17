@@ -14,7 +14,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="Ale-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Ale-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,28 +28,34 @@
     
 </div>
   
-  ##
-
-<div style="display: inline_block"><br> 
-
+<div style="display: inline_block" align="center"><br> 
  
 <a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5 ?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://alexaprado.herokuapp.com/" target="_blank"><img width="76" src="https://img.shields.io/badge/-Portfolio-ff69b4" target="_blank">
 </div>  
-  
-   
-<br><br>
-  
 
-   <h2>Projetos que contribuí</h2> <br>   
+---
+
+<h2 align="center">42 School Projects</h2> <br>  
+
+<div align="center">
+
+<a href="https://github.com/AlexaPim/libft">![42 Badge](https://game.42sp.org.br/static/assets/achievements/libfte.png)</a>
+<a href="https://github.com/AlexaPim/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
+
+</div>
+
+---  
+
+   <h2 align="center">Projetos que contribuí</h2> <br>   
 
    * [Troca Inteligente](https://troca-inteligente.vercel.app/) 
 
-    - Esse projeto tem como iniciativa contribuir com o meio ambiente, incentivando pessoas a reciclarem e lhes dando recompensas ao atingir pontos;
+     Esse projeto tem como iniciativa contribuir com o meio ambiente, incentivando pessoas a reciclarem e lhes dando recompensas ao atingir pontos;
      
    * [Carol](https://proj-carol.netlify.app/#/home)
 
-    - Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
+     Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
  
 
 
