@@ -60,8 +60,8 @@
  ---
 
 <div align="center">
-<h2>Profile views:
-<br>
+<h2>Profile views:</h2>
+<br><br>
 
 ![profile views counter](https://count.getloli.com/get/@AlexaPim?theme=rule34)
 
