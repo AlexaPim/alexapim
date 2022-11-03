@@ -42,6 +42,7 @@
 
 <a href="https://github.com/AlexaPim/libft">![42 Badge](https://game.42sp.org.br/static/assets/achievements/libfte.png)</a>
 <a href="https://github.com/AlexaPim/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
+<a href="https://github.com/AlexaPim/printf">![42 Badge](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)</a>
 
 </div>
 
