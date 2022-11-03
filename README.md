@@ -4,8 +4,8 @@
 
 - ⚡ Iniciante nesse mundo da programação 
 - 👯 Espero desenvolver algo que ajude você 
-- ✨ Apaixonada por jogos, doramas e animes 
-- ❤️ BTS é minha paixão 😍 
+- ✨ Gosto de jogos, doramas e animes 
+- ❤️ BTS é minha maior paixão 😍
 <br><br>
 
 <div>
@@ -57,5 +57,11 @@
 
      Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
  
+ ---
 
+<div align="center">
+<h2>Profile views:
+<br>
+
+![profile views counter](https://count.getloli.com/get/@AlexaPim?theme=rule34)
 
