@@ -6,6 +6,7 @@
 - 👯 Espero desenvolver algo que ajude você 
 - ✨ Gosto de jogos, doramas e animes 
 - ❤️ BTS é minha maior paixão 😍
+- Atualmente sou estudante de Engenharia de Software pela 42 São Paulo.
 <br><br>
 
 <div>
