@@ -46,6 +46,8 @@
 <a href="https://github.com/AlexaPim/printf">![42 Badge](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)</a>
 <a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)</a>
 <a href="https://github.com/AlexaPim/so_long">![42 Badge](https://game.42sp.org.br/static/assets/achievements/so_longm.png)</a>
+<a href="https://github.com/AlexaPim/minitalk">![42 Badge](https://game.42sp.org.br/static/assets/achievements/minitalkm.png)</a>
+
 
 
 </div>
