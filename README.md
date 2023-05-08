@@ -37,9 +37,16 @@
 
 ---
 
-<h2 align="center">42 School Projects</h2> <br>  
+<h2 align="center"> 42 School Projects</h2> 
+<br>  
 
 <div align="center">
+
+<a>![42 Badge](https://badge.mediaplus.ma/levi/ado-prad?1337Badge=off&UM6P=off)</a>
+
+---
+
+## FASE 1 
 
 <a href="https://github.com/AlexaPim/libft">![42 Badge](https://game.42sp.org.br/static/assets/achievements/libfte.png)</a>
 <a href="https://github.com/AlexaPim/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
@@ -56,13 +63,13 @@
 
    <h2 align="center">Projetos que contribuí</h2> <br>   
 
-   * [Troca Inteligente](https://troca-inteligente.vercel.app/) 
+> [Troca Inteligente](https://troca-inteligente.vercel.app/) 
 
-     Esse projeto tem como iniciativa contribuir com o meio ambiente, incentivando pessoas a reciclarem e lhes dando recompensas ao atingir pontos;
+* Esse projeto tem como iniciativa contribuir com o meio ambiente, incentivando pessoas a reciclarem e lhes dando recompensas ao atingir pontos;
      
-   * [Carol](https://proj-carol.netlify.app/#/home)
+> [Carol](https://proj-carol.netlify.app/#/home)
 
-     Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
+* Esse é um projeto integrador baseado na ODS 16 da ONU, foi trabalhado durante a formação do bootcamp da Generation Brasil.
  
  ---
 
