@@ -47,6 +47,11 @@
 ---
 
 ## FASE 1 
+<div>
+
+<a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/phase_onee.png)</a>
+
+</div>
 
 <a href="https://github.com/AlexaPim/libft">![42 Badge](https://game.42sp.org.br/static/assets/achievements/libfte.png)</a>
 <a href="https://github.com/AlexaPim/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
