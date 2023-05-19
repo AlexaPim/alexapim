@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a>![42 Badge](https://badge.mediaplus.ma/levi/ado-prad?1337Badge=off&UM6P=off)</a>
+<img>![42 Badge](https://badge.mediaplus.ma/levi/ado-prad?1337Badge=off&UM6P=off)
 
 ---
 
