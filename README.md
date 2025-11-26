@@ -5,15 +5,9 @@
 - ⚡ Iniciante nesse mundo da programação 
 - 👯 Espero desenvolver algo que ajude você 
 - ✨ Gosto de jogos, doramas e animes 
-- ❤️ BTS é minha maior paixão 😍
-- Atualmente sou estudante de Engenharia de Software pela 42 São Paulo.
-<br><br>
 
-<div>
-    <a href="https://github.com/AlexaPim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexapim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- Atualmente sou estudante de Tecnologia da Informação pela Univesp.
+<br><br>
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Ale-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
