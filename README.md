@@ -46,34 +46,6 @@
 
 ---
 
-## FASE 1 
-<div>
-
-<a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/phase_onee.png)</a>
-
-</div>
-
-<a href="https://github.com/AlexaPim/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="libft" height="100" width="100"/></a>
-<a href="https://github.com/AlexaPim/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="gnl" height="100" width="100"/></a>
-<a href="https://github.com/AlexaPim/printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt="printf" height="100" width="100"/></a>
-<img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="born" height="100" width="100"/></a>
-<a href="https://github.com/AlexaPim/so_long"><img src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" alt="so_long" height="100" width="100"/></a>
-<a href="https://github.com/AlexaPim/minitalk"><img src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" alt="minitalk" height="100" width="100"/></a>
-
-##  Fase 2
-
-<div>
-
-<a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/phase_twon.png)</a>
-
-</div>
-
-<a href="https://github.com/AlexaPim/push_swap"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" alt="push" height="100" width="100"/></a>
-
-</div>
-
----  
-
    <h2 align="center">Projetos que contribuí</h2> <br>   
 
 > [Troca Inteligente](https://troca-inteligente.vercel.app/) 
