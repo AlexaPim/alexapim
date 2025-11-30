@@ -26,17 +26,8 @@
 <div style="display: inline_block" align="center"><br> 
  
 <a href="https://www.linkedin.com/in/alexssandra-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5 ?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://alexaprado.herokuapp.com/" target="_blank"><img width="76" src="https://img.shields.io/badge/-Portfolio-ff69b4" target="_blank">
+
 </div>  
-
----
-
-<h2 align="center"> 42 School Projects</h2> 
-<br>  
-
-<div align="center">
-
-<img>![42 Badge](https://badge.mediaplus.ma/levi/ado-prad?1337Badge=off&UM6P=off)
 
 ---
 
